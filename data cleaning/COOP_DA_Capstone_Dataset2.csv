@@ -1,0 +1,730 @@
+userid,sex,age,state,ad_view_date,college_graduate,parents,children
+LXNJQ3311S,Male,19,Connecticut,2/10/2025,Non-college graduate,Is a parent,2
+FNGJA1454X,Male,27,Massachusetts,9/14/2024,College graduate,Is a parent,2
+ZUCTB2527E,Male,43,Hawaii,9/22/2024,Non-college graduate,Is a parent,1
+EVPXX3448Q,Female,64,California,3/18/2025,College graduate,Not a parent,0
+ZMFKM9001I,Male,19,Virginia,9/12/2024,Non-college graduate,Not a parent,0
+GRYMN2282K,Male,30,West Virginia,10/5/2024,Non-college graduate,Not a parent,0
+KKHLI6526E,Male,41,Connecticut,10/30/2024,College graduate,Not a parent,0
+YDCFZ9825B,Male,31,Missouri,10/3/2024,College graduate,Not a parent,0
+FKKDR3691J,Male,35,Montana,10/3/2024,College graduate,Is a parent,4
+SZHAE9366D,Male,50,Oregon,11/20/2024,Non-college graduate,Not a parent,0
+IECYH3530S,Male,65,Virginia,10/25/2024,Non-college graduate,Is a parent,3
+IRHJI8002Z,Female,45,California,10/11/2024,College graduate,Is a parent,2
+SXETB3323X,Male,29,Massachusetts,11/12/2024,College graduate,Not a parent,0
+GYVSO4436P,Male,65,Delaware,2/1/2025,College graduate,Not a parent,0
+FYGPX7454T,Female,55,Idaho,10/7/2024,College graduate,Is a parent,1
+DYUYE0694D,Male,39,Utah,2/10/2025,College graduate,Not a parent,0
+HNVLH7748V,Male,49,Massachusetts,11/28/2024,Non-college graduate,Not a parent,0
+ZWZNF0128K,Male,54,Oklahoma,2/5/2025,Non-college graduate,Is a parent,2
+EWZBC8759S,Male,55,Rhode Island,12/2/2024,College graduate,Not a parent,0
+QWTWH2779Y,Female,64,South Carolina,3/1/2025,College graduate,Not a parent,0
+KLJWX8034F,Male,26,Alaska,9/8/2024,Non-college graduate,Not a parent,0
+QPNDD6389F,Female,20,Oregon,1/31/2025,Non-college graduate,Is a parent,3
+DFMZN5113X,Female,44,Illinois,11/25/2024,College graduate,Is a parent,1
+PGGIZ9216T,Male,20,Utah,2/20/2025,Non-college graduate,Not a parent,0
+JNAMM4456W,Female,58,Florida,9/5/2024,Non-college graduate,Is a parent,4
+WGCMY8526N,Male,30,Florida,11/1/2024,College graduate,Not a parent,0
+KEIGT3829Y,Male,62,North Dakota,11/13/2024,College graduate,Not a parent,0
+OSDRZ9148A,Female,56,North Dakota,11/5/2024,Non-college graduate,Is a parent,3
+ISJZP5116B,Male,29,Oklahoma,11/19/2024,College graduate,Not a parent,0
+EUDBU4665J,Male,53,Hawaii,2/15/2025,College graduate,Is a parent,3
+ZIOZM0154P,Male,21,Nevada,2/19/2025,Non-college graduate,Is a parent,2
+BUUFS2994E,Female,30,Tennessee,11/26/2024,College graduate,Is a parent,1
+KWIBK2289A,Male,42,Ohio,10/16/2024,College graduate,Is a parent,1
+DJPQQ9653E,Female,38,Tennessee,10/31/2024,College graduate,Not a parent,0
+DOIMT7462U,Male,46,Massachusetts,3/17/2025,College graduate,Is a parent,2
+CFHGW5648C,Male,41,Montana,9/1/2024,Non-college graduate,Not a parent,0
+IKJYQ1906K,Female,63,South Carolina,3/4/2025,College graduate,Not a parent,0
+IWALP7682D,Female,45,Kansas,3/23/2025,College graduate,Is a parent,1
+NMWUO1963V,Male,36,Hawaii,2/25/2025,Non-college graduate,Not a parent,0
+LTPBJ3051J,Male,54,Nebraska,9/14/2024,Non-college graduate,Is a parent,3
+FUHUM4458F,Female,36,New Jersey,10/7/2024,College graduate,Not a parent,0
+GYOZX2851Q,Male,22,Montana,2/25/2025,Non-college graduate,Not a parent,0
+BIGEQ4643T,Male,40,South Dakota,10/19/2024,Non-college graduate,Is a parent,3
+SCHMD8376D,Male,37,Oregon,2/18/2025,Non-college graduate,Not a parent,0
+JYDYN0938L,Female,20,South Carolina,9/25/2024,College graduate,Is a parent,3
+ISFIX4795J,Male,62,Louisiana,10/13/2024,College graduate,Is a parent,3
+UGBDH9396Q,Female,53,Texas,10/12/2024,College graduate,Not a parent,0
+WKRRI3211V,Male,41,North Dakota,11/24/2024,Non-college graduate,Not a parent,0
+VVMOR8767G,Female,45,Tennessee,12/12/2024,College graduate,Is a parent,1
+QGSPI6609K,Female,40,Alabama,12/1/2024,College graduate,Not a parent,0
+REODI7132J,Male,47,New Jersey,1/26/2025,College graduate,Not a parent,0
+VMKOT9945C,Male,34,Vermont,9/15/2024,College graduate,Is a parent,3
+CPAKW7957Q,Male,32,Ohio,12/29/2024,College graduate,Not a parent,0
+DDGYO2578G,Male,24,Florida,3/2/2025,Non-college graduate,Not a parent,0
+MWWQM0755O,Male,41,Ohio,10/8/2024,Non-college graduate,Not a parent,0
+FVCXM7753B,Male,63,Louisiana,2/6/2025,Non-college graduate,Is a parent,1
+ECGQM3110I,Male,50,Utah,12/20/2024,College graduate,Not a parent,0
+KWWTK9379S,Male,26,Washington,1/15/2025,College graduate,Not a parent,0
+FLZUQ8441J,Male,47,Montana,2/18/2025,Non-college graduate,Is a parent,1
+LLVNA4149A,Female,65,Missouri,3/18/2025,College graduate,Is a parent,1
+TDALE4719U,Female,24,Vermont,2/4/2025,College graduate,Not a parent,0
+DGNGV6008M,Female,31,Texas,12/30/2024,College graduate,Is a parent,3
+YMMMQ8595M,Male,20,New Mexico,2/17/2025,College graduate,Not a parent,0
+ATXKH2464V,Female,35,Massachusetts,10/4/2024,College graduate,Not a parent,0
+RIQQC0345Y,Male,26,South Dakota,3/26/2025,College graduate,Is a parent,1
+JPXBW4979F,Male,55,Missouri,10/21/2024,Non-college graduate,Not a parent,0
+YUJAT6057A,Female,26,Rhode Island,1/8/2025,College graduate,Not a parent,0
+PLERR1529Y,Male,57,Georgia,12/3/2024,Non-college graduate,Is a parent,3
+KEYHR5488T,Male,56,Alaska,1/6/2025,College graduate,Is a parent,1
+GPYUD3806Y,Female,49,Arizona,10/21/2024,Non-college graduate,Not a parent,0
+EXDIM0176Q,Female,65,Rhode Island,3/7/2025,College graduate,Is a parent,4
+QBSOQ6151K,Male,28,Illinois,3/10/2025,College graduate,Is a parent,3
+ZNEJY5510H,Female,23,Georgia,3/2/2025,College graduate,Not a parent,0
+OYFOL0602Q,Male,59,Michigan,12/16/2024,College graduate,Is a parent,2
+BCBBV1468I,Male,25,Florida,9/4/2024,College graduate,Not a parent,0
+GTIPJ7109E,Female,53,New Jersey,10/12/2024,College graduate,Is a parent,3
+OQPUB6621D,Female,62,Oklahoma,3/30/2025,Non-college graduate,Is a parent,1
+AJUUR1682M,Male,44,South Carolina,3/4/2025,Non-college graduate,Not a parent,0
+TIPEG6807U,Female,65,Illinois,9/25/2024,Non-college graduate,Is a parent,3
+YPSPS2140K,Female,20,Rhode Island,1/15/2025,Non-college graduate,Is a parent,1
+QLVXV3774K,Male,53,Nebraska,9/9/2024,College graduate,Not a parent,0
+AQGKA8901Y,Female,56,Arizona,1/28/2025,Non-college graduate,Not a parent,0
+XDQNT5923P,Male,64,Maryland,1/21/2025,College graduate,Not a parent,0
+JDAPN8561D,Male,34,Texas,1/24/2025,Non-college graduate,Is a parent,2
+EPSMD4818L,Male,44,Texas,9/19/2024,College graduate,Is a parent,1
+AOEUZ3414F,Female,52,Illinois,9/10/2024,Non-college graduate,Is a parent,4
+FMGTL4108A,Female,59,Indiana,9/18/2024,College graduate,Is a parent,4
+ZUGUN2624B,Male,38,North Dakota,10/15/2024,Non-college graduate,Is a parent,4
+BLKON6199V,Male,50,South Dakota,9/26/2024,College graduate,Is a parent,4
+FHATQ2716C,Male,57,Oklahoma,9/10/2024,Non-college graduate,Is a parent,1
+CHFYQ2941E,Female,61,West Virginia,9/3/2024,College graduate,Not a parent,0
+LXLLA0491M,Male,63,Wisconsin,2/20/2025,Non-college graduate,Is a parent,3
+IFPCO8569Z,Female,50,New Mexico,3/10/2025,College graduate,Is a parent,3
+FWUEF0150N,Male,22,Illinois,3/5/2025,Non-college graduate,Is a parent,4
+GUKYC5370J,Female,43,South Dakota,2/13/2025,College graduate,Is a parent,2
+YGMIX8264U,Female,52,Tennessee,10/8/2024,Non-college graduate,Is a parent,2
+BYINL9871V,Male,50,Kansas,12/22/2024,College graduate,Is a parent,4
+MTDOM6894I,Female,28,Montana,9/26/2024,Non-college graduate,Is a parent,1
+EOTVC4808M,Male,29,Virginia,2/8/2025,Non-college graduate,Not a parent,0
+SIKQT9522X,Female,32,North Dakota,2/22/2025,College graduate,Not a parent,0
+CJQMQ0226T,Male,38,Kentucky,11/11/2024,Non-college graduate,Not a parent,0
+CGPVR0991V,Female,43,Kansas,3/2/2025,Non-college graduate,Not a parent,0
+NXPMZ8898X,Male,57,Florida,12/7/2024,College graduate,Not a parent,0
+CPMZO0001Q,Female,49,Montana,3/15/2025,Non-college graduate,Not a parent,0
+IRMPR6262S,Female,65,Connecticut,12/3/2024,College graduate,Is a parent,1
+CVRLX9939M,Female,47,North Dakota,11/6/2024,College graduate,Is a parent,2
+HRJJX3125R,Male,19,Indiana,1/25/2025,Non-college graduate,Is a parent,4
+DKFNA5776L,Male,22,Missouri,12/9/2024,College graduate,Is a parent,2
+KLUIQ6556G,Female,47,Pennsylvania,11/2/2024,Non-college graduate,Is a parent,4
+QTUOD5324K,Female,32,California,10/29/2024,College graduate,Not a parent,0
+MDWSP5220O,Male,25,New Mexico,1/26/2025,College graduate,Is a parent,2
+TQWTA4586G,Male,36,Arizona,12/30/2024,College graduate,Is a parent,3
+HDFBI6875J,Male,34,North Dakota,1/9/2025,College graduate,Is a parent,2
+IRQXZ4530V,Female,50,Iowa,3/9/2025,Non-college graduate,Is a parent,1
+ZGKGP8289X,Male,20,Maine,10/18/2024,College graduate,Is a parent,2
+NMDNW0075G,Male,36,Kansas,10/11/2024,Non-college graduate,Is a parent,4
+BDKPR0623B,Male,59,Iowa,10/13/2024,Non-college graduate,Is a parent,1
+MFWIN6534A,Male,22,Florida,11/26/2024,College graduate,Not a parent,0
+VHFRU3982T,Female,35,Wisconsin,10/25/2024,Non-college graduate,Is a parent,4
+XWPWC1033V,Male,21,North Dakota,1/28/2025,College graduate,Is a parent,1
+KGDGG2331X,Female,63,Vermont,3/11/2025,Non-college graduate,Is a parent,1
+ANUYN8455C,Male,53,Minnesota,10/12/2024,College graduate,Not a parent,0
+VILUK8823M,Female,28,Oregon,9/11/2024,Non-college graduate,Is a parent,3
+ISBSI9065H,Male,60,Hawaii,10/24/2024,Non-college graduate,Not a parent,0
+CDQVV9354G,Female,51,Kentucky,11/30/2024,Non-college graduate,Not a parent,0
+PNNGV1723I,Male,48,Georgia,3/11/2025,College graduate,Not a parent,0
+GQGKG5845V,Female,38,Tennessee,2/22/2025,Non-college graduate,Not a parent,0
+OESLH1898E,Male,41,Colorado,12/8/2024,College graduate,Is a parent,2
+SBFDD1822R,Female,35,New Hampshire,1/30/2025,Non-college graduate,Not a parent,0
+XBPEX3568H,Female,19,New York,1/13/2025,Non-college graduate,Is a parent,2
+CSFSM1628N,Male,55,Utah,2/28/2025,Non-college graduate,Is a parent,4
+GZYUI1052D,Male,57,New Jersey,9/25/2024,Non-college graduate,Not a parent,0
+QDTDE7454P,Female,26,Ohio,12/11/2024,College graduate,Is a parent,2
+HAKEC4651L,Female,28,Virginia,11/12/2024,College graduate,Not a parent,0
+QLBUQ5008H,Male,44,South Carolina,1/1/2025,Non-college graduate,Not a parent,0
+POYRQ6465K,Female,59,Iowa,12/11/2024,Non-college graduate,Is a parent,1
+DLALL5294N,Male,18,Wyoming,3/4/2025,Non-college graduate,Not a parent,0
+ISEGR9981S,Male,43,South Dakota,11/21/2024,Non-college graduate,Is a parent,4
+XPTNG7311M,Male,65,Hawaii,12/7/2024,Non-college graduate,Not a parent,0
+SOLSQ9165J,Male,41,Kansas,9/12/2024,College graduate,Is a parent,2
+AVOBJ3014H,Female,58,New York,3/15/2025,Non-college graduate,Is a parent,1
+VJSZC2958L,Female,64,Oklahoma,11/8/2024,College graduate,Is a parent,3
+MXYXR8889K,Male,35,Arizona,2/3/2025,College graduate,Is a parent,4
+OLOHZ1751M,Male,39,Ohio,1/25/2025,College graduate,Is a parent,3
+JYYKN6843H,Male,25,Maryland,12/21/2024,Non-college graduate,Not a parent,0
+SOQQW5795F,Female,21,Colorado,12/15/2024,College graduate,Is a parent,2
+LLTRU7723I,Female,59,Illinois,2/13/2025,Non-college graduate,Is a parent,4
+KZYBM6074H,Male,34,West Virginia,12/15/2024,College graduate,Is a parent,3
+EVJTZ1324D,Female,24,Delaware,11/21/2024,Non-college graduate,Not a parent,0
+OEHNZ3437I,Female,45,Massachusetts,10/11/2024,College graduate,Is a parent,4
+DXHPK1380B,Male,63,Pennsylvania,1/8/2025,Non-college graduate,Is a parent,2
+YPUXJ8978T,Male,50,Mississippi,2/12/2025,College graduate,Not a parent,0
+SUXOV6040Z,Female,59,Arizona,2/15/2025,Non-college graduate,Is a parent,4
+NNBNT1225J,Female,52,Idaho,9/17/2024,College graduate,Is a parent,4
+LCTFQ9240X,Female,38,Virginia,2/11/2025,College graduate,Is a parent,3
+WSSZR4646I,Female,33,Delaware,12/8/2024,College graduate,Not a parent,0
+RRHIG7939U,Male,60,North Dakota,9/24/2024,College graduate,Is a parent,2
+VZIST0152O,Female,63,Arkansas,10/24/2024,Non-college graduate,Not a parent,0
+TPWPV2299Y,Male,61,Nevada,1/18/2025,Non-college graduate,Is a parent,4
+MRPBX8558V,Female,44,Montana,1/12/2025,College graduate,Not a parent,0
+VJYCU1129H,Male,40,Mississippi,1/3/2025,Non-college graduate,Is a parent,3
+MHYEZ5216G,Male,45,Virginia,10/6/2024,Non-college graduate,Not a parent,0
+SCEPV9076U,Female,61,Wisconsin,9/11/2024,Non-college graduate,Is a parent,4
+ZTMJW6643X,Female,42,Missouri,11/19/2024,Non-college graduate,Not a parent,0
+SGNYD9354K,Male,37,Delaware,3/12/2025,Non-college graduate,Is a parent,2
+PCNIR6115S,Male,35,Rhode Island,1/26/2025,College graduate,Not a parent,0
+KGLLH3730J,Male,55,Arkansas,3/10/2025,Non-college graduate,Is a parent,1
+VTVTF9406H,Male,49,Indiana,11/26/2024,College graduate,Not a parent,0
+ZDEHN2914U,Male,53,Kansas,9/28/2024,College graduate,Is a parent,2
+UVAQN6012Z,Male,36,Kansas,11/26/2024,College graduate,Is a parent,3
+XMXMG2605H,Male,56,New Jersey,3/8/2025,College graduate,Not a parent,0
+QSUJC6205Q,Female,50,Alaska,11/2/2024,College graduate,Not a parent,0
+RZJSD8597K,Female,36,South Dakota,3/22/2025,Non-college graduate,Not a parent,0
+OCBPC7502S,Female,34,Kentucky,2/5/2025,College graduate,Is a parent,2
+KRTOI7551F,Male,62,New Hampshire,3/2/2025,College graduate,Not a parent,0
+VFZBB0282D,Male,26,Arkansas,12/4/2024,Non-college graduate,Not a parent,0
+BMWXW1770T,Female,18,Massachusetts,1/8/2025,College graduate,Is a parent,4
+JVAUR7344V,Female,48,Oklahoma,10/24/2024,Non-college graduate,Not a parent,0
+GOLZO2212D,Male,65,Mississippi,1/14/2025,Non-college graduate,Is a parent,4
+LCAMF1104Y,Female,56,Maine,11/3/2024,Non-college graduate,Is a parent,2
+BKQLV2433W,Male,54,Hawaii,1/3/2025,College graduate,Not a parent,0
+XHXBX5957R,Female,20,Massachusetts,11/24/2024,Non-college graduate,Not a parent,0
+GQZEF8413K,Male,40,Maine,12/5/2024,College graduate,Not a parent,0
+GCUME0297L,Male,63,Delaware,3/15/2025,Non-college graduate,Not a parent,0
+KHCIB5849Z,Male,21,New Jersey,10/4/2024,College graduate,Is a parent,3
+KWZXS7136Y,Female,23,Michigan,2/21/2025,College graduate,Not a parent,0
+IIACN8931W,Male,24,Connecticut,9/29/2024,Non-college graduate,Is a parent,2
+BZYUX5752U,Female,42,Florida,9/27/2024,Non-college graduate,Is a parent,3
+LPXGR3479V,Male,26,New Mexico,1/1/2025,Non-college graduate,Is a parent,2
+PHMEG3275U,Male,45,New York,10/23/2024,College graduate,Is a parent,1
+QAKGQ0599J,Female,59,Nevada,9/19/2024,Non-college graduate,Is a parent,4
+ICXPH2664G,Male,57,Idaho,12/28/2024,Non-college graduate,Is a parent,2
+SRWVA9406K,Female,58,Montana,3/4/2025,Non-college graduate,Not a parent,0
+AROWV6562F,Female,23,Maryland,1/21/2025,College graduate,Not a parent,0
+FFAMB4479M,Male,42,New York,12/26/2024,Non-college graduate,Not a parent,0
+CCWDB5218E,Male,56,Oregon,3/2/2025,College graduate,Is a parent,1
+XRUNR2540U,Male,65,Nebraska,9/29/2024,College graduate,Not a parent,0
+ETCKZ7878Z,Female,51,Iowa,1/14/2025,Non-college graduate,Not a parent,0
+VQBXY9624A,Male,61,Mississippi,1/20/2025,College graduate,Is a parent,2
+ESMDL6650Q,Female,50,Tennessee,12/24/2024,College graduate,Not a parent,0
+SHXPR1905B,Female,20,Texas,11/15/2024,Non-college graduate,Is a parent,2
+UIPSP5950E,Female,54,Alaska,1/26/2025,Non-college graduate,Is a parent,3
+CQALS5504B,Female,33,Tennessee,2/10/2025,Non-college graduate,Not a parent,0
+MIGAV1214A,Female,63,Washington,1/9/2025,Non-college graduate,Not a parent,0
+JCTLS5100D,Male,60,Idaho,3/16/2025,College graduate,Not a parent,0
+HWBLD1507A,Male,35,Pennsylvania,11/21/2024,Non-college graduate,Is a parent,2
+GJDLG5108M,Male,57,Delaware,1/17/2025,Non-college graduate,Not a parent,0
+WLWWQ7312L,Female,24,Washington,1/31/2025,Non-college graduate,Not a parent,0
+KHZRL5052V,Male,32,Nevada,10/5/2024,Non-college graduate,Is a parent,4
+NXEJF9205S,Female,41,Montana,12/7/2024,College graduate,Is a parent,2
+DAEWA7720Z,Male,40,Colorado,12/13/2024,Non-college graduate,Not a parent,0
+YEFUW6275K,Male,20,Wyoming,3/13/2025,College graduate,Is a parent,3
+CVPKQ4333A,Male,51,Louisiana,1/17/2025,College graduate,Not a parent,0
+JNMOC5445H,Female,18,Alaska,3/29/2025,Non-college graduate,Is a parent,3
+BRRNE8969L,Male,43,Illinois,1/4/2025,Non-college graduate,Not a parent,0
+INCRB7252U,Male,49,Massachusetts,2/8/2025,College graduate,Not a parent,0
+MILKP1814V,Female,57,Alabama,3/20/2025,Non-college graduate,Is a parent,4
+PMBNU9714O,Male,63,Kentucky,12/24/2024,Non-college graduate,Not a parent,0
+FTLSP7247H,Female,47,Wisconsin,9/30/2024,Non-college graduate,Is a parent,3
+UZADJ6699O,Female,23,Kansas,11/17/2024,College graduate,Not a parent,0
+RZOJV1467Y,Male,65,Hawaii,3/13/2025,College graduate,Not a parent,0
+WFPNH3620P,Male,33,Minnesota,9/10/2024,College graduate,Is a parent,3
+JTUEQ8071D,Female,35,Mississippi,12/2/2024,Non-college graduate,Not a parent,0
+XTZRX8040O,Female,42,Connecticut,2/2/2025,College graduate,Is a parent,4
+ATNFX2489J,Male,23,North Carolina,1/30/2025,College graduate,Is a parent,4
+PUWPT2409P,Male,64,Nebraska,11/14/2024,College graduate,Is a parent,3
+KFGSD8702H,Female,45,Oklahoma,11/25/2024,College graduate,Is a parent,3
+OAMGQ6208B,Male,27,Arkansas,9/30/2024,Non-college graduate,Not a parent,0
+PKQLH1979H,Female,54,Wisconsin,11/25/2024,Non-college graduate,Is a parent,1
+NPHAZ8360D,Male,58,Indiana,1/3/2025,Non-college graduate,Not a parent,0
+VHSUQ8262P,Male,37,Massachusetts,10/3/2024,Non-college graduate,Is a parent,3
+DABFQ9218H,Male,38,Georgia,10/13/2024,College graduate,Not a parent,0
+QBITE8490L,Female,57,Hawaii,2/20/2025,Non-college graduate,Is a parent,2
+QLKLM7985S,Female,35,Hawaii,3/24/2025,Non-college graduate,Is a parent,1
+DNGFI5901X,Male,24,North Carolina,11/24/2024,College graduate,Not a parent,0
+XSAFS2843D,Female,38,Minnesota,12/16/2024,Non-college graduate,Not a parent,0
+OQHLV3457P,Female,22,Massachusetts,10/22/2024,College graduate,Not a parent,0
+VPGMT8907Q,Male,51,Oregon,11/5/2024,Non-college graduate,Is a parent,3
+GBPTC6423M,Male,54,Rhode Island,9/25/2024,Non-college graduate,Not a parent,0
+CYHKY9487L,Male,49,Pennsylvania,9/26/2024,Non-college graduate,Not a parent,0
+POCRB4406V,Male,42,New Hampshire,12/15/2024,College graduate,Not a parent,0
+MKYNC9675E,Male,18,Arizona,10/20/2024,College graduate,Not a parent,0
+WEBYC7012O,Male,51,Oklahoma,12/9/2024,Non-college graduate,Is a parent,2
+DOOPK8694D,Male,65,Wisconsin,10/21/2024,College graduate,Is a parent,2
+YRTCW3194T,Male,60,Rhode Island,12/21/2024,Non-college graduate,Is a parent,4
+HUECU7307B,Female,65,Vermont,1/4/2025,College graduate,Not a parent,0
+BCNYA9822Z,Male,59,Colorado,9/15/2024,Non-college graduate,Is a parent,3
+AJGGN6896H,Female,25,Nebraska,10/5/2024,College graduate,Is a parent,4
+AJZTP3968S,Female,18,Alabama,3/13/2025,College graduate,Not a parent,0
+KWEJC2523I,Female,22,Colorado,12/29/2024,College graduate,Is a parent,4
+XLJIK2076T,Female,56,Oklahoma,1/31/2025,Non-college graduate,Not a parent,0
+ZMPJI2294S,Male,50,Louisiana,11/25/2024,Non-college graduate,Is a parent,4
+YJMEQ9238S,Female,23,Montana,9/29/2024,Non-college graduate,Not a parent,0
+UCSWZ2109K,Female,63,Minnesota,12/7/2024,College graduate,Not a parent,0
+SMRSE1860I,Male,57,Alabama,3/19/2025,Non-college graduate,Not a parent,0
+ZRGPG5133W,Male,19,North Dakota,1/4/2025,College graduate,Not a parent,0
+MZWYQ8095E,Male,47,Iowa,11/10/2024,College graduate,Is a parent,1
+QKBGN3534J,Male,41,Missouri,2/11/2025,Non-college graduate,Not a parent,0
+AWXVU6002T,Male,39,North Dakota,12/26/2024,College graduate,Is a parent,2
+PUVYA1779L,Male,36,Virginia,3/20/2025,College graduate,Is a parent,3
+ZFOAT8628W,Male,30,New York,2/11/2025,Non-college graduate,Is a parent,4
+TPKQB8508V,Male,27,West Virginia,1/21/2025,College graduate,Is a parent,2
+KROXS0842I,Male,20,New Mexico,9/4/2024,College graduate,Not a parent,0
+HNQOJ3592J,Female,65,Hawaii,9/25/2024,Non-college graduate,Not a parent,0
+GBJRG3726B,Male,40,Vermont,1/29/2025,College graduate,Not a parent,0
+TZSFS8968E,Male,29,New Hampshire,1/26/2025,College graduate,Not a parent,0
+PDZIC0538H,Male,21,Nebraska,1/15/2025,Non-college graduate,Not a parent,0
+MEEUU1655O,Female,46,Florida,2/7/2025,College graduate,Is a parent,1
+JUNLE2504O,Female,23,Texas,3/19/2025,College graduate,Not a parent,0
+BORJP1574K,Female,57,Florida,2/17/2025,College graduate,Not a parent,0
+FXGBS1831V,Male,46,Indiana,1/17/2025,College graduate,Not a parent,0
+JBDUZ0953Q,Female,31,Indiana,11/29/2024,Non-college graduate,Not a parent,0
+RUZSZ6104V,Male,32,Michigan,2/11/2025,Non-college graduate,Not a parent,0
+KUQES7066D,Male,44,Vermont,1/28/2025,Non-college graduate,Not a parent,0
+TMGOP8000K,Female,24,New Jersey,9/28/2024,Non-college graduate,Not a parent,0
+PNDZA8403Y,Female,45,Connecticut,10/17/2024,College graduate,Is a parent,3
+SEFWO1141R,Male,45,West Virginia,11/17/2024,College graduate,Not a parent,0
+CCNKK2449X,Male,41,Connecticut,12/30/2024,Non-college graduate,Is a parent,3
+TGQGY4311P,Male,37,Montana,1/29/2025,College graduate,Is a parent,2
+DZZSC6982P,Female,36,New Hampshire,11/22/2024,College graduate,Not a parent,0
+GRLRA8191Q,Female,51,South Dakota,3/21/2025,Non-college graduate,Is a parent,4
+JNSGH4128A,Male,25,Iowa,2/24/2025,Non-college graduate,Is a parent,4
+DFIDC8361F,Male,46,Arkansas,9/19/2024,College graduate,Not a parent,0
+VKCWD4290J,Female,55,Alabama,2/16/2025,Non-college graduate,Is a parent,1
+NGMPD6104L,Female,61,Colorado,11/24/2024,College graduate,Not a parent,0
+VFEQO2766Q,Female,58,Colorado,10/1/2024,College graduate,Is a parent,1
+IKVKL3220N,Female,26,Vermont,9/27/2024,Non-college graduate,Not a parent,0
+VMZQJ5017O,Male,49,Hawaii,1/29/2025,Non-college graduate,Is a parent,2
+NTISA3714O,Female,19,Massachusetts,11/9/2024,Non-college graduate,Not a parent,0
+EYGKX4350Z,Male,57,Vermont,9/14/2024,Non-college graduate,Is a parent,4
+UKERS8216P,Male,61,Colorado,3/16/2025,College graduate,Not a parent,0
+HPTJG5110P,Female,55,Missouri,11/24/2024,Non-college graduate,Not a parent,0
+LWGFB7339T,Female,39,Texas,2/22/2025,College graduate,Not a parent,0
+OCQZT2083G,Female,55,Kentucky,11/9/2024,Non-college graduate,Not a parent,0
+GRXUZ8753L,Female,48,Kansas,9/26/2024,College graduate,Is a parent,2
+HPNMM5625A,Female,38,North Carolina,12/10/2024,College graduate,Not a parent,0
+SPQZY1149S,Male,50,Florida,11/20/2024,College graduate,Not a parent,0
+MANZC3750L,Female,46,Texas,3/5/2025,Non-college graduate,Is a parent,2
+ZDIZU7193X,Female,38,Delaware,11/1/2024,College graduate,Is a parent,1
+QLFXM0266I,Female,38,New York,3/28/2025,College graduate,Not a parent,0
+VTXNC8329K,Female,55,Utah,2/12/2025,College graduate,Is a parent,3
+YQWKR0204V,Male,51,California,9/9/2024,College graduate,Not a parent,0
+SSCHK9492S,Male,61,Oregon,12/8/2024,College graduate,Not a parent,0
+SDTHI4584W,Female,41,Connecticut,2/25/2025,College graduate,Is a parent,1
+WWPFG2583F,Male,50,Washington,10/22/2024,College graduate,Is a parent,4
+ONCOK8833J,Female,40,New Mexico,2/16/2025,Non-college graduate,Not a parent,0
+LTFEA1428Y,Male,62,Arizona,3/25/2025,Non-college graduate,Not a parent,0
+XEEJE6586B,Male,59,Nebraska,10/3/2024,Non-college graduate,Is a parent,4
+YHFYY1314Z,Female,26,Rhode Island,10/3/2024,College graduate,Not a parent,0
+IMIDE3483V,Female,23,Texas,9/19/2024,College graduate,Is a parent,4
+HFRGF7395P,Female,64,Colorado,12/17/2024,Non-college graduate,Is a parent,1
+DSSEC4939T,Male,45,South Dakota,10/2/2024,College graduate,Not a parent,0
+VPUHN6326Z,Male,43,Maryland,12/9/2024,College graduate,Not a parent,0
+FTFVI5535W,Male,35,Nebraska,1/9/2025,College graduate,Is a parent,4
+CNFXR5394I,Female,61,Alabama,12/5/2024,College graduate,Not a parent,0
+MKPKD5134L,Male,52,Washington,1/26/2025,Non-college graduate,Is a parent,2
+TWADZ8901H,Male,51,Georgia,2/3/2025,College graduate,Not a parent,0
+JRFMX8886W,Female,32,Oklahoma,12/23/2024,College graduate,Not a parent,0
+AJJCI3040E,Male,32,South Dakota,9/13/2024,Non-college graduate,Not a parent,0
+KWILC2964Y,Male,36,Missouri,3/26/2025,Non-college graduate,Not a parent,0
+NNSZT1320N,Female,64,Texas,2/1/2025,Non-college graduate,Is a parent,2
+RMNQS0290M,Male,49,Indiana,10/4/2024,Non-college graduate,Is a parent,3
+XVKEV1441G,Male,48,Nevada,2/22/2025,College graduate,Not a parent,0
+OYUEN2234N,Male,57,Arkansas,11/11/2024,College graduate,Is a parent,4
+PNVNP9772E,Female,43,Maine,12/15/2024,Non-college graduate,Is a parent,2
+RHNBZ2763C,Male,46,Arkansas,2/19/2025,Non-college graduate,Is a parent,1
+UEOUL6191K,Female,44,Maine,1/19/2025,Non-college graduate,Not a parent,0
+DZPSC2326G,Female,23,Iowa,12/18/2024,Non-college graduate,Not a parent,0
+JFYBZ3651Z,Female,25,Alaska,11/20/2024,Non-college graduate,Is a parent,2
+LSGUE8366M,Male,35,New York,12/2/2024,Non-college graduate,Not a parent,0
+YNSCO9633V,Male,59,Delaware,2/27/2025,College graduate,Not a parent,0
+EEIIB6951G,Female,29,North Dakota,11/18/2024,College graduate,Not a parent,0
+ZJYWR9031U,Male,65,Massachusetts,12/20/2024,College graduate,Not a parent,0
+VGAWF9828F,Female,64,New Hampshire,3/7/2025,College graduate,Not a parent,0
+FGIVS1565C,Female,28,North Dakota,2/20/2025,College graduate,Is a parent,1
+PBYSO0802Z,Male,54,Michigan,12/10/2024,College graduate,Is a parent,1
+FSDKX4167W,Male,64,Tennessee,10/17/2024,College graduate,Is a parent,1
+YQHRE6327U,Male,63,Oregon,11/24/2024,Non-college graduate,Is a parent,2
+GHGJW1602V,Male,62,North Carolina,11/8/2024,Non-college graduate,Not a parent,0
+FZUAS7137G,Female,47,New Mexico,2/2/2025,College graduate,Is a parent,1
+XRGXQ5218A,Male,29,Michigan,2/11/2025,Non-college graduate,Is a parent,2
+NVIPJ0384X,Female,56,Maryland,2/4/2025,Non-college graduate,Is a parent,3
+RVFWH2399X,Female,54,Nevada,12/8/2024,College graduate,Is a parent,4
+GGPWZ7391Z,Male,62,North Dakota,11/5/2024,College graduate,Not a parent,0
+WTKWQ3082S,Female,26,Wyoming,11/8/2024,College graduate,Not a parent,0
+SQCYI9528I,Female,40,Florida,10/19/2024,Non-college graduate,Is a parent,2
+BEGSD1042Q,Male,53,California,9/14/2024,College graduate,Is a parent,4
+XVRMT2814H,Female,54,Kansas,12/1/2024,College graduate,Is a parent,2
+NMROT2706Z,Female,51,Oregon,2/24/2025,College graduate,Not a parent,0
+NOSEL1497A,Female,33,Nevada,1/15/2025,Non-college graduate,Not a parent,0
+VLMUA3410K,Female,18,New Hampshire,9/25/2024,College graduate,Not a parent,0
+ZJEED7375E,Female,57,New Jersey,3/10/2025,Non-college graduate,Is a parent,1
+ZXNGE3860E,Male,18,Iowa,10/13/2024,College graduate,Not a parent,0
+URUUN6862Y,Male,46,Michigan,2/14/2025,College graduate,Is a parent,4
+JLWUY6039V,Male,28,North Dakota,9/13/2024,Non-college graduate,Not a parent,0
+CSUHK6458X,Female,53,Tennessee,3/27/2025,College graduate,Is a parent,2
+ISDJU1050N,Male,50,Iowa,2/20/2025,College graduate,Is a parent,2
+IQRYH0409J,Female,43,Oklahoma,12/6/2024,College graduate,Not a parent,0
+BJMIP6724O,Male,29,Utah,3/29/2025,College graduate,Not a parent,0
+TXFJI8384J,Male,38,Massachusetts,10/14/2024,College graduate,Not a parent,0
+TTISO2928H,Male,43,Missouri,10/14/2024,Non-college graduate,Is a parent,2
+EGTEN2670J,Male,34,Michigan,11/1/2024,Non-college graduate,Not a parent,0
+JKRHK0759G,Male,56,Vermont,1/25/2025,Non-college graduate,Not a parent,0
+CTRRN0110B,Male,59,South Dakota,9/17/2024,Non-college graduate,Is a parent,3
+SXGMR5828R,Female,64,Florida,9/12/2024,Non-college graduate,Is a parent,4
+CQPZW0684R,Male,65,Wyoming,10/17/2024,College graduate,Is a parent,3
+FVCNG7764Y,Female,32,Idaho,2/12/2025,College graduate,Is a parent,4
+FWRTX6661Z,Male,28,Wyoming,9/18/2024,College graduate,Not a parent,0
+WVOFQ9893P,Female,51,Montana,11/23/2024,College graduate,Not a parent,0
+ZQYCY2662U,Female,35,Oregon,3/15/2025,Non-college graduate,Not a parent,0
+BVVXJ9235U,Male,64,New Mexico,12/25/2024,Non-college graduate,Not a parent,0
+AGZHL2761K,Female,27,Rhode Island,9/26/2024,College graduate,Is a parent,2
+UHEJB8287K,Female,22,California,1/12/2025,Non-college graduate,Not a parent,0
+LBNHI4328W,Male,26,Washington,10/21/2024,Non-college graduate,Is a parent,2
+DRJAX5361M,Female,36,Mississippi,1/26/2025,Non-college graduate,Is a parent,1
+ZFRXU9393I,Female,46,Arizona,10/25/2024,College graduate,Is a parent,1
+IEBJO3934V,Male,58,Georgia,12/17/2024,Non-college graduate,Is a parent,1
+WGDLB4933E,Female,46,Oregon,11/2/2024,Non-college graduate,Not a parent,0
+HSPNA0331Z,Male,22,Kentucky,3/27/2025,Non-college graduate,Not a parent,0
+JVTFZ9150J,Male,49,Arkansas,9/27/2024,College graduate,Not a parent,0
+ZXKQQ7005F,Male,23,North Carolina,2/14/2025,College graduate,Not a parent,0
+CJPNR0822A,Male,63,Kentucky,2/25/2025,College graduate,Is a parent,4
+YPPIQ5980X,Male,58,Oregon,9/5/2024,Non-college graduate,Not a parent,0
+NEAPL8644K,Female,29,Kansas,10/19/2024,Non-college graduate,Not a parent,0
+IBUUP5170O,Male,52,Maryland,3/15/2025,Non-college graduate,Is a parent,2
+DUQDY1587I,Female,54,Oregon,3/2/2025,College graduate,Is a parent,3
+ONZOI4536S,Female,25,Nevada,2/15/2025,College graduate,Is a parent,2
+DRBTQ7923R,Male,27,Texas,1/15/2025,Non-college graduate,Not a parent,0
+XDALU8746W,Male,40,Utah,11/10/2024,Non-college graduate,Is a parent,1
+GKRMR1768T,Female,48,North Carolina,2/14/2025,College graduate,Is a parent,3
+LMZTH4259C,Male,33,Kentucky,3/6/2025,College graduate,Not a parent,0
+JAWNV5760T,Female,37,South Carolina,10/31/2024,College graduate,Not a parent,0
+EYDEZ2877H,Female,60,West Virginia,9/5/2024,Non-college graduate,Is a parent,2
+FHVXB0831I,Female,53,Rhode Island,12/24/2024,Non-college graduate,Is a parent,2
+CSRWZ4875C,Female,35,Pennsylvania,11/2/2024,College graduate,Is a parent,1
+EBJQC0934G,Female,24,Oregon,3/26/2025,Non-college graduate,Not a parent,0
+LTTNB2264R,Female,53,North Carolina,11/9/2024,Non-college graduate,Not a parent,0
+ECJRW6924Q,Female,30,Iowa,1/21/2025,College graduate,Is a parent,2
+OZFXF9369G,Male,20,Hawaii,10/25/2024,College graduate,Not a parent,0
+HWUZQ8076O,Female,31,New York,9/14/2024,College graduate,Not a parent,0
+AUSLN9199Y,Female,41,Wyoming,9/29/2024,College graduate,Is a parent,3
+VOYXC3799F,Female,51,Alaska,1/30/2025,College graduate,Is a parent,3
+TIBWX8177M,Female,51,New York,9/24/2024,College graduate,Is a parent,3
+NTGKR4815F,Male,54,Maryland,1/13/2025,Non-college graduate,Not a parent,0
+DJRUD9702Z,Male,39,Maine,12/16/2024,College graduate,Not a parent,0
+BXTWC4740X,Male,59,New Jersey,9/7/2024,Non-college graduate,Is a parent,1
+OUEEU0212Q,Male,55,Idaho,12/22/2024,College graduate,Is a parent,2
+QLQTQ7912S,Male,43,Missouri,10/26/2024,Non-college graduate,Is a parent,2
+RSPQE1339C,Male,59,Minnesota,10/16/2024,Non-college graduate,Is a parent,1
+YHPOV5502K,Male,65,Delaware,9/16/2024,College graduate,Not a parent,0
+QNBHM4798S,Female,59,Iowa,3/31/2025,College graduate,Is a parent,2
+CUFMN7199M,Male,34,Louisiana,10/10/2024,Non-college graduate,Is a parent,1
+NAGZQ9768A,Male,47,Maryland,11/8/2024,College graduate,Is a parent,3
+WAJFL2694Y,Male,54,Montana,1/9/2025,College graduate,Is a parent,1
+JYUMW9816F,Male,37,Alabama,1/6/2025,Non-college graduate,Not a parent,0
+ZTFMT1623Z,Female,60,North Dakota,10/10/2024,College graduate,Is a parent,4
+NRVSZ4124D,Female,20,Texas,3/17/2025,College graduate,Not a parent,0
+TXHFP5147Y,Female,50,Alabama,2/18/2025,College graduate,Not a parent,0
+IALWL3548O,Male,42,Virginia,9/11/2024,College graduate,Is a parent,3
+RFDTQ3121R,Female,25,Connecticut,1/27/2025,Non-college graduate,Is a parent,2
+CQBKW6821H,Female,28,Tennessee,9/1/2024,Non-college graduate,Is a parent,1
+FOIGV0005P,Female,51,South Dakota,3/25/2025,College graduate,Is a parent,3
+MSHHK2719Q,Male,52,California,9/5/2024,College graduate,Not a parent,0
+IRQVP7195G,Male,19,Alaska,10/9/2024,College graduate,Not a parent,0
+CMKRJ1656V,Female,24,Minnesota,9/19/2024,College graduate,Not a parent,0
+UNEMK5981B,Female,24,South Carolina,9/5/2024,College graduate,Not a parent,0
+NAFZP6543K,Female,30,Missouri,12/23/2024,College graduate,Is a parent,3
+WVIEF2507J,Female,58,Rhode Island,12/9/2024,College graduate,Not a parent,0
+VUHLC2139A,Female,21,Massachusetts,1/31/2025,College graduate,Not a parent,0
+WBNSR4815R,Male,44,Alabama,11/4/2024,College graduate,Not a parent,0
+HMHZH1099F,Male,32,Virginia,2/24/2025,Non-college graduate,Not a parent,0
+VOXLX7287T,Female,54,Nebraska,12/27/2024,College graduate,Not a parent,0
+DGHBT9952X,Male,56,South Carolina,2/7/2025,College graduate,Is a parent,4
+PDBGP0709Y,Female,41,Alabama,1/4/2025,Non-college graduate,Not a parent,0
+FZXRW3885D,Male,24,Massachusetts,10/20/2024,Non-college graduate,Not a parent,0
+MCKKQ3864W,Female,60,Massachusetts,2/26/2025,Non-college graduate,Not a parent,0
+PDLYR8326U,Male,24,Michigan,10/19/2024,College graduate,Not a parent,0
+TCXBO2291R,Male,46,Hawaii,2/2/2025,Non-college graduate,Is a parent,4
+AOTHP3333L,Male,65,Virginia,10/1/2024,College graduate,Not a parent,0
+UKNKZ6377A,Male,29,Vermont,2/27/2025,College graduate,Is a parent,2
+IZALV9445C,Female,33,Mississippi,2/16/2025,College graduate,Is a parent,1
+NFHGL5241D,Male,28,Wisconsin,2/5/2025,College graduate,Is a parent,4
+SIRKB8125E,Male,32,Delaware,11/2/2024,College graduate,Not a parent,0
+FVBBK0090Y,Male,49,Kentucky,3/7/2025,College graduate,Not a parent,0
+AASJN6566V,Male,37,Oregon,12/12/2024,Non-college graduate,Is a parent,4
+LRHMZ4698F,Male,50,South Carolina,11/26/2024,Non-college graduate,Not a parent,0
+JMGFV2364G,Female,43,Maryland,3/20/2025,Non-college graduate,Is a parent,3
+TGZQQ2389F,Female,28,California,2/5/2025,Non-college graduate,Is a parent,4
+BDKMD3717K,Male,31,Kentucky,2/10/2025,Non-college graduate,Is a parent,1
+SIMDR7388N,Male,41,North Carolina,1/31/2025,College graduate,Not a parent,0
+XRXCI6979P,Female,24,Illinois,3/8/2025,College graduate,Is a parent,3
+HMQJN4260K,Male,32,Missouri,12/24/2024,College graduate,Not a parent,0
+UGTLR0542Y,Female,45,Maine,9/25/2024,College graduate,Is a parent,3
+EJEIC6423I,Male,19,Alaska,3/1/2025,College graduate,Not a parent,0
+PJSCG9646N,Male,25,Ohio,12/9/2024,Non-college graduate,Is a parent,4
+XTSRY4576S,Female,29,New York,11/16/2024,Non-college graduate,Is a parent,4
+QRBII8237O,Male,41,Nebraska,10/5/2024,Non-college graduate,Is a parent,1
+UMENU7825M,Female,39,Illinois,10/23/2024,Non-college graduate,Is a parent,4
+FYPAV5868D,Male,33,New Mexico,12/24/2024,College graduate,Not a parent,0
+HOIIS5050E,Male,51,Idaho,3/1/2025,College graduate,Is a parent,2
+SWUCS8052H,Male,47,Massachusetts,1/12/2025,Non-college graduate,Is a parent,3
+BQEPA9536D,Male,30,Iowa,12/15/2024,College graduate,Not a parent,0
+BNNND1001J,Female,58,Kansas,10/30/2024,Non-college graduate,Not a parent,0
+BSXZP1860B,Male,48,Louisiana,3/6/2025,Non-college graduate,Is a parent,4
+YVOKD6461D,Female,64,Tennessee,12/24/2024,College graduate,Not a parent,0
+RMIJP6094N,Female,31,Alabama,12/1/2024,Non-college graduate,Is a parent,1
+WGZAC1449D,Male,36,Colorado,2/22/2025,Non-college graduate,Is a parent,3
+YGBWM3973P,Female,61,Indiana,2/5/2025,Non-college graduate,Not a parent,0
+ROCGX0707T,Female,32,Alabama,2/6/2025,College graduate,Is a parent,2
+AECWX9233R,Male,65,Nebraska,9/1/2024,College graduate,Not a parent,0
+MATKC4710M,Male,43,Michigan,1/2/2025,College graduate,Not a parent,0
+CLSHM6277W,Male,45,South Dakota,10/2/2024,College graduate,Not a parent,0
+YZCFL2986Y,Female,39,Nevada,3/24/2025,Non-college graduate,Not a parent,0
+MJKHJ4765R,Female,31,Minnesota,11/21/2024,Non-college graduate,Not a parent,0
+SVJNW3641W,Female,20,Virginia,10/12/2024,College graduate,Not a parent,0
+ZZGMU8537Y,Female,63,Kansas,9/26/2024,College graduate,Not a parent,0
+WAJHX1572H,Female,53,Kansas,1/8/2025,College graduate,Not a parent,0
+LYTFU0708J,Female,25,Texas,12/26/2024,College graduate,Is a parent,4
+NFIRA4322Q,Male,59,Iowa,9/9/2024,College graduate,Not a parent,0
+RUAEU5343R,Female,42,Vermont,10/25/2024,College graduate,Not a parent,0
+GEKPL6384E,Male,47,Nevada,3/26/2025,College graduate,Is a parent,2
+GNJUX9255Y,Female,22,Texas,3/17/2025,Non-college graduate,Is a parent,2
+IYCBT9201J,Female,23,Kentucky,10/14/2024,Non-college graduate,Is a parent,2
+LJCTW1750W,Male,65,Illinois,3/28/2025,Non-college graduate,Not a parent,0
+RTPIT9968S,Male,45,Nebraska,1/10/2025,Non-college graduate,Not a parent,0
+UGLWY1803V,Female,40,Maryland,9/1/2024,Non-college graduate,Is a parent,3
+MTOTS2232O,Female,41,Kansas,1/11/2025,Non-college graduate,Not a parent,0
+UASHA9495T,Male,27,Wyoming,3/30/2025,College graduate,Not a parent,0
+ZCLPW3120T,Female,25,Delaware,3/29/2025,Non-college graduate,Is a parent,4
+WUACZ9864Q,Male,24,Maine,2/19/2025,College graduate,Is a parent,1
+FCNKB0011E,Male,54,Indiana,10/31/2024,College graduate,Not a parent,0
+DYLOH0478B,Female,34,South Dakota,11/10/2024,Non-college graduate,Is a parent,1
+PQIWN3479L,Female,65,Iowa,2/14/2025,College graduate,Not a parent,0
+NJMXV2227T,Female,34,North Dakota,12/10/2024,College graduate,Is a parent,1
+RKCRU2032O,Female,33,New Mexico,2/3/2025,College graduate,Is a parent,3
+GHEXC4271G,Female,20,Georgia,12/17/2024,College graduate,Is a parent,3
+UDZAH7743P,Female,36,Texas,12/21/2024,College graduate,Not a parent,0
+DQUXJ6930O,Male,65,Missouri,10/26/2024,College graduate,Is a parent,1
+DFTZN2382H,Female,47,Michigan,12/13/2024,College graduate,Is a parent,1
+BYURP1445C,Female,23,Massachusetts,9/28/2024,College graduate,Not a parent,0
+AUDNG1717R,Male,39,West Virginia,9/7/2024,College graduate,Is a parent,1
+ZJAYC2987F,Male,33,North Dakota,12/26/2024,College graduate,Is a parent,3
+RIDYW0144Y,Male,26,Oklahoma,9/15/2024,College graduate,Is a parent,4
+LLMRO4391P,Male,24,Indiana,11/17/2024,Non-college graduate,Is a parent,2
+AVVHZ3710E,Male,25,New York,2/7/2025,Non-college graduate,Not a parent,0
+EKGPP8018L,Female,19,Washington,9/16/2024,Non-college graduate,Is a parent,1
+KOPFG9064M,Male,23,Oklahoma,11/15/2024,Non-college graduate,Is a parent,1
+PGTDG9358C,Male,56,Minnesota,3/9/2025,Non-college graduate,Is a parent,3
+ZLWMH0969T,Male,63,Montana,9/29/2024,College graduate,Not a parent,0
+YMDCM0428V,Female,62,South Dakota,3/8/2025,Non-college graduate,Is a parent,2
+HCVVZ6100Z,Male,32,Louisiana,12/8/2024,Non-college graduate,Is a parent,1
+NIOUL8511M,Male,59,Massachusetts,2/19/2025,Non-college graduate,Is a parent,4
+UHRAL1341C,Male,31,Colorado,1/23/2025,College graduate,Not a parent,0
+GEEXJ2987K,Female,48,Montana,9/30/2024,College graduate,Not a parent,0
+PTONM7936W,Female,59,Pennsylvania,12/12/2024,College graduate,Is a parent,4
+HICAK5310C,Female,32,Michigan,10/21/2024,Non-college graduate,Not a parent,0
+NJIBN1529V,Male,23,Rhode Island,10/29/2024,College graduate,Is a parent,4
+ODXZA9617Y,Female,58,Rhode Island,12/16/2024,Non-college graduate,Is a parent,4
+GWRJB5730V,Male,32,Louisiana,11/23/2024,Non-college graduate,Not a parent,0
+DVFAY1218D,Female,30,North Dakota,1/20/2025,Non-college graduate,Not a parent,0
+LXFVN2078I,Female,27,Montana,11/7/2024,Non-college graduate,Not a parent,0
+IJGYM6908K,Female,49,West Virginia,11/22/2024,College graduate,Is a parent,3
+VJCJB7235R,Male,34,Montana,3/17/2025,College graduate,Is a parent,3
+XONOL3636P,Female,57,Delaware,2/4/2025,College graduate,Is a parent,4
+FMYIG2676Q,Female,42,Oregon,3/22/2025,Non-college graduate,Is a parent,3
+SJFAC8793S,Male,30,Massachusetts,9/30/2024,College graduate,Not a parent,0
+JURIA1892I,Female,59,Mississippi,11/20/2024,College graduate,Is a parent,1
+WVFMN4165A,Male,20,Kansas,11/9/2024,Non-college graduate,Not a parent,0
+PEIRR1444H,Male,59,Florida,12/18/2024,College graduate,Is a parent,1
+LDJVF5710Z,Male,24,Hawaii,9/15/2024,Non-college graduate,Is a parent,3
+RODUO2145F,Male,41,Oregon,9/11/2024,College graduate,Not a parent,0
+MBNDY3862Y,Female,45,Washington,11/14/2024,College graduate,Not a parent,0
+EORJJ7236Y,Male,30,Vermont,11/5/2024,Non-college graduate,Is a parent,1
+STBSP7187K,Male,36,Alabama,9/19/2024,College graduate,Not a parent,0
+QEGTE9790O,Male,31,South Dakota,3/17/2025,Non-college graduate,Not a parent,0
+AIUWS8476Y,Female,53,Pennsylvania,1/17/2025,Non-college graduate,Is a parent,1
+CVGLM0302N,Female,35,Nebraska,11/6/2024,College graduate,Is a parent,1
+FRNPJ8734Z,Male,48,Alaska,11/15/2024,College graduate,Not a parent,0
+IBKNH6417J,Female,57,Wyoming,11/21/2024,College graduate,Is a parent,1
+XKKWT7454D,Female,49,Missouri,3/21/2025,Non-college graduate,Is a parent,3
+CGSWF3615P,Female,43,Wisconsin,1/17/2025,College graduate,Not a parent,0
+FYZMG3428M,Female,49,Oklahoma,3/31/2025,Non-college graduate,Not a parent,0
+HHFPT9348I,Female,38,South Dakota,9/5/2024,College graduate,Is a parent,3
+RKDTH1662X,Female,60,Rhode Island,1/3/2025,College graduate,Not a parent,0
+LLUHN5365Q,Male,26,Vermont,3/11/2025,Non-college graduate,Not a parent,0
+DWVYJ0558N,Female,46,Minnesota,2/8/2025,College graduate,Is a parent,4
+JBJHR4385F,Male,43,Kentucky,10/25/2024,College graduate,Is a parent,1
+ZFVWD3229F,Male,58,Tennessee,12/18/2024,Non-college graduate,Not a parent,0
+OMVLC8350U,Male,48,Connecticut,9/27/2024,Non-college graduate,Is a parent,3
+OUAPW0127E,Male,25,Vermont,2/11/2025,College graduate,Not a parent,0
+GBZGA1951E,Male,30,North Dakota,9/16/2024,College graduate,Is a parent,4
+FVMJC3951Q,Female,22,Hawaii,11/14/2024,College graduate,Not a parent,0
+BKTFJ3090U,Male,35,Ohio,12/26/2024,College graduate,Not a parent,0
+KHCWH1344N,Male,50,Arizona,12/5/2024,Non-college graduate,Is a parent,1
+PFTYF9099D,Female,63,New York,10/19/2024,College graduate,Not a parent,0
+SAXFV6520F,Female,60,Oregon,11/21/2024,College graduate,Not a parent,0
+PCVPC6144C,Female,41,Hawaii,1/4/2025,College graduate,Not a parent,0
+IVOAN1509V,Female,44,Rhode Island,2/6/2025,College graduate,Is a parent,4
+CHKMG9396E,Female,56,Alabama,12/19/2024,Non-college graduate,Not a parent,0
+MOLSZ6722X,Female,31,Arkansas,9/2/2024,Non-college graduate,Is a parent,3
+TQVEW9514Q,Male,25,Wisconsin,2/10/2025,College graduate,Is a parent,2
+SYMLU1611U,Female,45,California,10/17/2024,Non-college graduate,Is a parent,2
+NSQJI0107W,Female,39,Florida,11/13/2024,College graduate,Is a parent,3
+VXRAZ5389H,Male,29,West Virginia,2/24/2025,Non-college graduate,Is a parent,3
+XJWVP7898Y,Male,47,Missouri,2/1/2025,Non-college graduate,Is a parent,4
+YYWDS3366Z,Male,64,Wyoming,12/27/2024,Non-college graduate,Is a parent,1
+ZDHAY8105G,Female,36,Idaho,3/2/2025,College graduate,Not a parent,0
+FHVSF3091W,Male,50,Kansas,3/27/2025,Non-college graduate,Not a parent,0
+FIHJW2587P,Female,35,Connecticut,9/25/2024,Non-college graduate,Is a parent,1
+ANFNS6998F,Male,56,Connecticut,3/15/2025,College graduate,Not a parent,0
+OWUAV4353D,Female,61,Iowa,12/26/2024,Non-college graduate,Is a parent,3
+FPTNH7101O,Female,20,Delaware,1/22/2025,College graduate,Is a parent,4
+ZBLMC0428L,Female,61,Montana,9/25/2024,Non-college graduate,Not a parent,0
+USYBQ0583Y,Male,35,Georgia,9/6/2024,Non-college graduate,Not a parent,0
+CUNQX0567S,Male,61,Indiana,10/20/2024,College graduate,Not a parent,0
+LOJCW7817F,Male,27,Texas,11/1/2024,College graduate,Not a parent,0
+AFMGV7103M,Male,57,West Virginia,12/24/2024,Non-college graduate,Is a parent,1
+TXBMM6628P,Male,55,Kansas,11/7/2024,Non-college graduate,Not a parent,0
+VTOPU6249A,Female,36,Maryland,10/18/2024,Non-college graduate,Is a parent,2
+PSNZO2329S,Female,22,California,3/27/2025,College graduate,Not a parent,0
+BHJKL7319I,Female,34,Kansas,1/4/2025,College graduate,Is a parent,4
+ATODY7832T,Male,33,Tennessee,1/12/2025,Non-college graduate,Not a parent,0
+KCPLJ6183V,Female,61,South Dakota,9/10/2024,College graduate,Not a parent,0
+AOESO1044W,Male,62,Mississippi,9/16/2024,College graduate,Is a parent,4
+ACQXP6132Q,Female,22,South Carolina,2/4/2025,College graduate,Not a parent,0
+RBSHZ4196U,Male,23,Connecticut,1/6/2025,College graduate,Not a parent,0
+XBVPP5854I,Male,49,Oregon,11/6/2024,Non-college graduate,Not a parent,0
+NIUDH7635W,Male,43,Illinois,3/2/2025,College graduate,Is a parent,3
+LIAGZ4586W,Female,52,Minnesota,3/29/2025,Non-college graduate,Is a parent,3
+QBNED4908M,Male,35,Indiana,3/8/2025,College graduate,Is a parent,4
+IHXVK5510X,Male,24,Michigan,3/16/2025,College graduate,Not a parent,0
+ZFEQW7935E,Female,38,Maine,1/13/2025,Non-college graduate,Is a parent,3
+BANVC6058Q,Male,33,Rhode Island,12/19/2024,College graduate,Is a parent,2
+RJTVS1124X,Male,40,Michigan,3/6/2025,College graduate,Is a parent,1
+VIKRS0659N,Female,49,Ohio,3/19/2025,College graduate,Is a parent,2
+SUPLY7207F,Female,38,New Hampshire,11/5/2024,College graduate,Not a parent,0
+KFRBM4147Z,Male,56,North Carolina,3/8/2025,College graduate,Is a parent,2
+UALQR9872D,Male,38,Alabama,10/30/2024,Non-college graduate,Is a parent,3
+FKOHG2058Q,Female,34,Missouri,1/1/2025,College graduate,Is a parent,1
+VIANS7053R,Female,65,New Hampshire,10/10/2024,Non-college graduate,Is a parent,3
+PHNEW5291K,Female,23,Maine,3/3/2025,College graduate,Not a parent,0
+KPEVN9143G,Female,32,Nebraska,1/24/2025,Non-college graduate,Not a parent,0
+RLSQY9807F,Male,53,Kentucky,11/18/2024,College graduate,Is a parent,2
+QDPUV3825U,Male,34,New York,11/23/2024,College graduate,Is a parent,3
+JEPHO5456Q,Female,63,Mississippi,10/18/2024,Non-college graduate,Is a parent,3
+GNXJA8969M,Female,51,Georgia,2/16/2025,Non-college graduate,Is a parent,3
+VUUTP4764A,Male,60,Arizona,9/5/2024,Non-college graduate,Not a parent,0
+OVPZA4373F,Male,22,North Carolina,9/9/2024,College graduate,Is a parent,3
+RWDFP5105T,Male,20,Minnesota,3/17/2025,College graduate,Not a parent,0
+EVKKZ9427Z,Male,37,Michigan,2/2/2025,Non-college graduate,Not a parent,0
+RIHZX9620T,Female,28,Kansas,11/23/2024,College graduate,Not a parent,0
+TNXKR4685Q,Female,35,Illinois,9/12/2024,Non-college graduate,Is a parent,1
+HFQXV9674Y,Male,54,Nevada,12/30/2024,College graduate,Not a parent,0
+BOVNX0838R,Female,28,North Carolina,1/13/2025,Non-college graduate,Is a parent,4
+XVJVY6722N,Male,34,Iowa,10/31/2024,Non-college graduate,Is a parent,4
+OOUWN2005U,Female,30,Pennsylvania,11/3/2024,Non-college graduate,Not a parent,0
+DKKXN4557T,Male,60,Mississippi,1/29/2025,Non-college graduate,Not a parent,0
+VAMYM3927E,Female,33,Montana,2/13/2025,Non-college graduate,Not a parent,0
+WBEHI2534S,Female,42,West Virginia,9/20/2024,Non-college graduate,Is a parent,3
+MXFZS7424B,Male,42,Rhode Island,11/8/2024,Non-college graduate,Not a parent,0
+MEPDX7287C,Male,46,Delaware,12/6/2024,Non-college graduate,Not a parent,0
+BGJPN3021R,Female,41,Delaware,2/5/2025,Non-college graduate,Is a parent,3
+QGNHX5788B,Male,48,Wisconsin,10/17/2024,Non-college graduate,Is a parent,4
+UASRM6168D,Male,53,New Jersey,1/30/2025,College graduate,Not a parent,0
+KQWEC5265Q,Male,55,Missouri,2/20/2025,Non-college graduate,Not a parent,0
+DSXGF8209L,Female,26,Washington,11/23/2024,Non-college graduate,Is a parent,3
+ATIOA1830W,Male,21,North Dakota,11/2/2024,Non-college graduate,Not a parent,0
+FZLFY7327B,Male,26,Virginia,11/19/2024,Non-college graduate,Not a parent,0
+YOZJH0366D,Male,30,California,12/29/2024,College graduate,Not a parent,0
+RQWWZ0422I,Male,55,Idaho,3/12/2025,Non-college graduate,Not a parent,0
+OGZKN7969Q,Female,43,Texas,2/1/2025,Non-college graduate,Is a parent,2
+COHFI9877A,Male,61,Kentucky,2/3/2025,College graduate,Not a parent,0
+KHYWK4353X,Male,47,Vermont,11/28/2024,College graduate,Not a parent,0
+VSPXO5611Z,Male,54,Louisiana,9/12/2024,College graduate,Is a parent,3
+AFWXW7173V,Female,20,Oregon,3/30/2025,College graduate,Not a parent,0
+XIKAA9575E,Female,43,Idaho,12/10/2024,College graduate,Is a parent,2
+DNKCL6936S,Female,63,Idaho,11/16/2024,Non-college graduate,Not a parent,0
+KSIMT4587A,Male,57,Illinois,2/23/2025,College graduate,Not a parent,0
+MALTD4943A,Female,58,Oregon,11/13/2024,Non-college graduate,Not a parent,0
+BTTSH5960B,Male,27,Idaho,2/17/2025,College graduate,Not a parent,0
+LLHDI5345H,Female,63,Connecticut,12/23/2024,College graduate,Is a parent,1
+VEHYG9749P,Male,62,Kansas,11/4/2024,Non-college graduate,Not a parent,0
+NDBQG0920F,Male,33,Arizona,1/24/2025,College graduate,Not a parent,0
+IPXOU3818F,Male,27,Maryland,11/20/2024,College graduate,Is a parent,4
+SYKWZ2884G,Male,45,California,12/6/2024,College graduate,Is a parent,2
+LZDFY9479R,Female,41,Oregon,9/19/2024,Non-college graduate,Not a parent,0
+CIWBB0883B,Female,33,Florida,1/17/2025,College graduate,Not a parent,0
+GBMNH2789F,Female,32,South Dakota,3/16/2025,College graduate,Is a parent,2
+FASKQ5093E,Female,52,West Virginia,12/9/2024,Non-college graduate,Not a parent,0
+HQNHT5813M,Female,45,Maryland,9/3/2024,College graduate,Is a parent,1
+XBUQQ6173W,Female,51,Georgia,1/10/2025,Non-college graduate,Not a parent,0
+CRNNN5016T,Male,58,Minnesota,11/9/2024,Non-college graduate,Is a parent,3
+MRTCD1508J,Female,36,Vermont,9/6/2024,College graduate,Not a parent,0
+GCUSR5033I,Male,37,West Virginia,9/15/2024,College graduate,Is a parent,2
+VYAJZ8128V,Male,38,Illinois,10/11/2024,College graduate,Not a parent,0
+IIXRF0938N,Male,30,Nevada,10/9/2024,College graduate,Not a parent,0
+LPXCY6522G,Female,61,California,10/9/2024,Non-college graduate,Not a parent,0
+JPPMZ6483N,Female,28,Utah,9/27/2024,Non-college graduate,Is a parent,4
+KHHIL9517V,Male,46,Florida,1/10/2025,Non-college graduate,Is a parent,1
+KDYOC6715B,Female,39,Idaho,9/6/2024,Non-college graduate,Is a parent,3
+ZQBHC8143K,Male,31,Alaska,3/11/2025,Non-college graduate,Not a parent,0
+ZADUU1102L,Female,33,Wyoming,1/19/2025,Non-college graduate,Not a parent,0
+SSFFZ7639U,Male,60,New Hampshire,10/3/2024,Non-college graduate,Is a parent,4
+DYUAE6304H,Male,54,Mississippi,10/11/2024,Non-college graduate,Is a parent,3
+REFWQ3296Q,Male,37,Hawaii,10/2/2024,College graduate,Not a parent,0
+FTOFV9463Y,Female,23,New Mexico,1/22/2025,Non-college graduate,Is a parent,4
+OQAFM6683R,Male,55,Utah,11/19/2024,College graduate,Not a parent,0
+KMWPD0837V,Male,37,Georgia,9/22/2024,College graduate,Is a parent,2
+SAPYX0769P,Female,53,Pennsylvania,2/19/2025,College graduate,Is a parent,1
+GYXKT6323I,Female,18,Utah,10/8/2024,Non-college graduate,Is a parent,2
+DIUVV1402J,Female,36,Arizona,10/28/2024,College graduate,Not a parent,0
+VGSJY3745H,Male,57,Hawaii,10/2/2024,College graduate,Is a parent,2
+WJBTS6776N,Male,61,Florida,12/29/2024,College graduate,Not a parent,0
+OMNIL9227Y,Female,31,Delaware,1/26/2025,Non-college graduate,Not a parent,0
+YIKSO8629F,Female,59,Wisconsin,9/10/2024,Non-college graduate,Is a parent,4
+NSZTK1005Y,Female,54,West Virginia,10/10/2024,Non-college graduate,Is a parent,2
+NFINS9522P,Male,38,New Hampshire,12/3/2024,College graduate,Is a parent,3
+MDIZH0479C,Female,39,Vermont,9/22/2024,Non-college graduate,Not a parent,0
+MXNZG3785U,Female,62,Nebraska,11/10/2024,Non-college graduate,Is a parent,3
+RLWUO8369C,Female,58,Arizona,10/14/2024,College graduate,Is a parent,1
+QGKGJ3795G,Female,60,Delaware,10/9/2024,Non-college graduate,Is a parent,3
+ZZORT7715Y,Male,37,Rhode Island,2/26/2025,College graduate,Not a parent,0
+GXDEU2722C,Male,35,Rhode Island,10/10/2024,College graduate,Is a parent,3
+RLPLI8075L,Female,61,New Mexico,11/10/2024,Non-college graduate,Is a parent,2
+XAGNC8410N,Female,19,Georgia,3/15/2025,Non-college graduate,Is a parent,1
+UTHQB7740D,Male,50,Minnesota,9/21/2024,College graduate,Is a parent,1
+ILTLJ4877I,Male,21,New Hampshire,12/13/2024,Non-college graduate,Is a parent,3
+HGNVQ8867D,Female,63,Connecticut,10/11/2024,College graduate,Is a parent,4
+VJDNM3110F,Female,45,North Carolina,12/28/2024,Non-college graduate,Not a parent,0
+FAYJV6363S,Female,49,Vermont,3/6/2025,College graduate,Not a parent,0
+BWHWU4889E,Male,33,Rhode Island,12/8/2024,Non-college graduate,Is a parent,4
+HPADF0180L,Male,60,Missouri,12/12/2024,Non-college graduate,Not a parent,0
+VUKTI3799F,Female,47,Arizona,12/14/2024,College graduate,Is a parent,4
+JLZEQ0328H,Male,25,Rhode Island,10/22/2024,Non-college graduate,Not a parent,0
+CLLBZ5214Q,Male,34,Wisconsin,3/24/2025,Non-college graduate,Is a parent,3
+MDGOQ6855W,Male,65,Michigan,12/4/2024,Non-college graduate,Not a parent,0
+VSBYO0776S,Female,19,Oklahoma,3/25/2025,College graduate,Is a parent,3
+HWQQZ9726H,Male,31,Missouri,2/1/2025,Non-college graduate,Not a parent,0
+JYBOR4297F,Female,57,Maine,9/20/2024,Non-college graduate,Is a parent,3
+COBZW7547O,Female,36,Massachusetts,2/24/2025,College graduate,Is a parent,2
+GXSMG2690U,Male,48,Washington,10/24/2024,Non-college graduate,Is a parent,1
+FGVPW3544C,Male,42,Louisiana,10/6/2024,College graduate,Is a parent,1
+ZWDNT1911S,Female,30,Alaska,12/4/2024,College graduate,Is a parent,4
+AOYKZ7575Z,Male,55,Idaho,12/30/2024,Non-college graduate,Is a parent,2
+CUZXM7602U,Female,61,Ohio,1/22/2025,Non-college graduate,Is a parent,2
+XOFAZ2792C,Female,48,Iowa,11/8/2024,Non-college graduate,Not a parent,0
+CFZCA3587E,Male,58,Georgia,3/12/2025,Non-college graduate,Is a parent,1
+MNYZK1114Z,Female,62,Connecticut,12/20/2024,College graduate,Is a parent,3
+GZZIL6470C,Male,34,Iowa,2/21/2025,Non-college graduate,Is a parent,3
+LVWON1040F,Female,62,Nevada,12/3/2024,College graduate,Is a parent,2
+ANIZM5002N,Female,35,Nebraska,11/13/2024,Non-college graduate,Not a parent,0
+KTGEH9338Z,Male,46,Nebraska,2/5/2025,College graduate,Is a parent,2
+NDMPG4321L,Male,52,Kansas,1/9/2025,Non-college graduate,Not a parent,0
+DFQGI9997O,Female,33,Kansas,11/6/2024,Non-college graduate,Is a parent,2
+GZAPZ3977Z,Male,58,Colorado,9/8/2024,College graduate,Not a parent,0
+ZNYKU3011Q,Female,26,Wisconsin,10/12/2024,Non-college graduate,Not a parent,0
+LKSDD3907S,Male,20,Illinois,1/29/2025,College graduate,Is a parent,1
+UOMGJ9702W,Female,48,North Carolina,11/9/2024,College graduate,Not a parent,0
+OCAXR0957T,Female,29,Oregon,10/16/2024,College graduate,Is a parent,1
+QYEQM4399O,Male,27,Texas,12/24/2024,College graduate,Is a parent,2
+YZRZD5125Z,Female,41,Hawaii,12/30/2024,Non-college graduate,Is a parent,1
+LSROC1464G,Female,19,Indiana,12/18/2024,College graduate,Is a parent,2
+TEXCP6975A,Female,36,Tennessee,9/23/2024,Non-college graduate,Not a parent,0
+HVQYH5891M,Female,65,Oklahoma,12/5/2024,College graduate,Is a parent,2
+EGZIN4465T,Female,56,North Dakota,1/26/2025,College graduate,Is a parent,2
+ECZBH8950Q,Female,36,California,1/5/2025,Non-college graduate,Not a parent,0
+GEOMK7360B,Female,50,Oregon,11/11/2024,Non-college graduate,Is a parent,1
+HRLWB3781J,Female,22,Kansas,12/12/2024,College graduate,Is a parent,4
+ZQXCO1346J,Female,23,Louisiana,11/22/2024,College graduate,Not a parent,0
